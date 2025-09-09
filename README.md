@@ -4,7 +4,7 @@ I'm fairly certain that both sides of the XMA OP team have long developed their 
 
 Within this repository:
 
-comm-exporter can capture COMM logs for roughly a one-month period at any chosen time window. Keep in mind that using it may violate the TOS and could result in account suspension.
+COMM-Exporter can capture COMM logs for roughly a one-month period at any chosen time window. Keep in mind that using it may violate the TOS and could result in account suspension.
 
 Replayer visualizes the exported logs, showing how several given accounts built or destroyed portals and links.
 
