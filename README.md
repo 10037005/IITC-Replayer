@@ -1,6 +1,6 @@
 # IITC-Replayer
 
-I'm fairly certain that both sides of the XMA OP team have long developed their own internal COMM log replay tools. The plugin in this repository is just a lightweight, vibe-coding style replayer built on top of IITC. Its main purpose is to give players who don’t have access to OP-level replayers—or who need to share replays in a desensitized form—a way to review activity.
+I'm fairly certain that both sides of the XMA OP team have long developed their own internal COMM log replay tools. This repository offers just a lightweight, vibe-coding style replayer built on top of IITC. Its main purpose is to give players who don’t have access to OP-level replayers—or who need to share replays in a desensitized form—a way to review activity.
 
 Within this repository:
 
